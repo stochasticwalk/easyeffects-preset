@@ -6,4 +6,4 @@ Linux tends to do weird things with audio. On my HP ProBook it made it sound lik
 ## How To Use
 Simply download the `.json` file and import it into Easy Effects by using the preset manager.
 
-The Limiter settings ensure you don't overload your speakers, but if audio sounds distorted via clipping simply lower the `Input` parameter in the Limiter.
+The Limiter settings ensure you don't overload your speakers, but if audio sounds distorted via clipping you can just lower the `Input` parameter in the Limiter.
