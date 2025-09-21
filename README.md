@@ -1,4 +1,4 @@
-# easyeffects-preset
+# Easy Effects Preset
 ## Linux Pipewire audio preset for HP Laptop speakers
 
 Linux tends to do weird things with audio. On my HP ProBook it made it sound like a busted AM radio from the 1940s. This preset enhances clarity and loudness.
